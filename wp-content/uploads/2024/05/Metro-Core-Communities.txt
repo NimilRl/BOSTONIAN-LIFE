@@ -1,0 +1,34 @@
+Mar-20,Sep-22,Sep-23,Datawrapper Name,Community Type
+2821.598944,3152.172252,3632.896825,Boston - Downtown (02108),Metro Core Communities
+3241.844735,3575.855845,3708.219697,Boston- Downtown (02446),Metro Core Communities
+3534.466814,3813.49782,3899.852564,Boston- Chinatown,Metro Core Communities
+2364.968596,2660.820314,2868.69213,Boston- North End,Metro Core Communities
+2940.879722,3152.908683,3268.999306,Boston- Beacon Hill/West End,Metro Core Communities
+2549.132146,2861.472212,2961.301584,Boston- Mission Hill,Metro Core Communities
+2857.158863,3204.360093,3257.191288,Boston- Back Bay,Metro Core Communities
+3073.982977,3378.903068,3607.841401,Boston- South End,Metro Core Communities
+2508.833483,3079.454499,3088.055556,Boston - Roxbury,Metro Core Communities
+2195.581155,2592.896471,2792.987013,Boston- Dorchester (02114),Metro Core Communities
+2414.878281,2752.04465,2867.525,Boston- Dorchester Center,Metro Core Communities
+2587.588679,2936.289899,3074.572727,Boston- Dorchester (02125),Metro Core Communities
+2867.590998,3328.498078,3522.868701,Boston- South Boston,Metro Core Communities
+2527.787576,2804.678766,2955.248205,Boston - East Boston,Metro Core Communities
+2691.418134,2990.411916,3171.960088,Boston - Charlestown,Metro Core Communities
+2447.889227,2755.964631,2869.475745,Boston- Jamaica Plain,Metro Core Communities
+2230.03719,2493.839907,2720.537037,Boston - Roslindale,Metro Core Communities
+2257.535206,2588.831007,2801.531818,Boston- West Roxbury,Metro Core Communities
+2394.329091,2695.907503,2880.455674,Boston- Allston,Metro Core Communities
+2413.708694,2690.462055,2876.946112,Boston- Brighton,Metro Core Communities
+2572.177055,2811.347045,2926.292394,Cambridge- Harvard/Fresh Pond,Metro Core Communities
+2911.017698,3224.942722,3269.251444,Cambridge- Central Sq/Cambridgeport,Metro Core Communities
+2936.94076,3178.69207,3267.903704,Cambridge- Porter Sq/N. Cambridge,Metro Core Communities
+2991.127872,3314.648655,3468.353844,Cambridge- East Cambridge,Metro Core Communities
+2488.558097,2752.716453,2945.31132,Somerville (02143),Metro Core Communities
+2945.322808,3292.728621,3532.189852,Somerville (02144),Metro Core Communities
+2750.633915,3081.911799,3256.114976,Somerville (02145),Metro Core Communities
+2318.942802,2594.399163,2676.044444,Malden,Metro Core Communities
+2268.129864,2547.002227,2752.337995,Everett,Metro Core Communities
+2258.749418,2554.693598,2622.433333,Chelsea,Metro Core Communities
+2152.410641,2516.917435,2603.690556,Revere,Metro Core Communities
+3731.818221,3944.554738,4104.458333,Boston- Downtown (02109),Metro Core Communities
+2564.841245,2900.128401,2931.453006,Boston- Fenway,Metro Core Communities

@@ -1,0 +1,326 @@
+ID CIP2,CIP2,ID CIP4,CIP4,ID CIP6,CIP6,ID Year,Year,ID Degree,Degree,Completions,Slug CIP6,Geography,ID Geography,Slug Geography
+1,Agriculture,110,Food Science & Technology,11001,Food Science,2021,2021,5,Bachelors Degree,0,food-science,"Boston, MA",16000US2507000,boston-ma
+3,Natural Resources & Conservation,301,Natural Resource Conservation & Research,30103,Environmental Studies,2021,2021,5,Bachelors Degree,43,environmental-studies,"Boston, MA",16000US2507000,boston-ma
+3,Natural Resources & Conservation,301,Natural Resource Conservation & Research,30104,Environmental Science,2021,2021,5,Bachelors Degree,122,environmental-science,"Boston, MA",16000US2507000,boston-ma
+4,Architecture and Related Services,402,Architecture,40201,Architecture,2021,2021,5,Bachelors Degree,8,architecture-040201,"Boston, MA",16000US2507000,boston-ma
+4,Architecture and Related Services,405,Interior Architecture,40501,Interior Architecture,2021,2021,5,Bachelors Degree,3,interior-architecture-040501,"Boston, MA",16000US2507000,boston-ma
+4,Architecture and Related Services,406,Landscape Architecture,40601,Landscape Architecture,2021,2021,5,Bachelors Degree,3,landscape-architecture-040601,"Boston, MA",16000US2507000,boston-ma
+4,Architecture and Related Services,408,Architectural History & Criticism,40801,General Architectural History & Criticism,2021,2021,5,Bachelors Degree,18,general-architectural-history-criticism,"Boston, MA",16000US2507000,boston-ma
+4,Architecture and Related Services,409,Architectural Sciences & Technology,40901,Architectural Technology,2021,2021,5,Bachelors Degree,1,architectural-technology,"Boston, MA",16000US2507000,boston-ma
+4,Architecture and Related Services,409,Architectural Sciences & Technology,40902,Architectural & Building Sciences & Technology,2021,2021,5,Bachelors Degree,159,architectural-building-sciences-technology,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,501,Area Studies,50101,African Studies,2021,2021,5,Bachelors Degree,1,african-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,501,Area Studies,50102,American & U.S. Studies,2021,2021,5,Bachelors Degree,11,american-us-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,501,Area Studies,50103,Asian Studies,2021,2021,5,Bachelors Degree,14,asian-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,501,Area Studies,50104,East Asian Studies,2021,2021,5,Bachelors Degree,3,east-asian-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,501,Area Studies,50106,European Studies,2021,2021,5,Bachelors Degree,3,european-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,501,Area Studies,50107,Latin American Studies,2021,2021,5,Bachelors Degree,1,latin-american-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,501,Area Studies,50108,Near & Middle Eastern Studies,2021,2021,5,Bachelors Degree,1,near-middle-eastern-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,501,Area Studies,50126,Italian Studies,2021,2021,5,Bachelors Degree,1,italian-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,501,Area Studies,50199,Other Area Studies,2021,2021,5,Bachelors Degree,0,other-area-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,502,"Ethnic, Cultural, & Gender Group Studies",50201,African-American & Black Studies,2021,2021,5,Bachelors Degree,9,african-american-black-studies,"Boston, MA",16000US2507000,boston-ma
+5,Cultural & Gender Studies,502,"Ethnic, Cultural, & Gender Group Studies",50207,Women's Studies,2021,2021,5,Bachelors Degree,18,womens-studies,"Boston, MA",16000US2507000,boston-ma
+9,Communications,901,Communication and Media Studies,90100,General Communication,2021,2021,5,Bachelors Degree,527,general-communication,"Boston, MA",16000US2507000,boston-ma
+9,Communications,901,Communication and Media Studies,90101,Speech Communication & Rhetoric,2021,2021,5,Bachelors Degree,168,speech-communication-rhetoric,"Boston, MA",16000US2507000,boston-ma
+9,Communications,901,Communication and Media Studies,90102,Mass Communication & Media Studies,2021,2021,5,Bachelors Degree,9,mass-communication-media-studies,"Boston, MA",16000US2507000,boston-ma
+9,Communications,901,Communication and Media Studies,90199,Other Communication & Media Studies,2021,2021,5,Bachelors Degree,57,other-communication-media-studies,"Boston, MA",16000US2507000,boston-ma
+9,Communications,904,Journalism,90401,Journalism,2021,2021,5,Bachelors Degree,267,journalism-090401,"Boston, MA",16000US2507000,boston-ma
+9,Communications,904,Journalism,90402,Broadcast Journalism,2021,2021,5,Bachelors Degree,0,broadcast-journalism,"Boston, MA",16000US2507000,boston-ma
+9,Communications,907,"Radio, Television, & Digital Communication",90701,Radio & Television,2021,2021,5,Bachelors Degree,233,radio-television,"Boston, MA",16000US2507000,boston-ma
+9,Communications,907,"Radio, Television, & Digital Communication",90702,Digital Communication & Multimedia,2021,2021,5,Bachelors Degree,1,digital-communication-multimedia,"Boston, MA",16000US2507000,boston-ma
+9,Communications,909,"Public Relations, Advertising, & Applied Communication",90900,"Public Relations, Advertising, & Applied Communication",2021,2021,5,Bachelors Degree,6,public-relations-advertising-applied-communication-090900,"Boston, MA",16000US2507000,boston-ma
+9,Communications,909,"Public Relations, Advertising, & Applied Communication",90901,General Organizational Communication,2021,2021,5,Bachelors Degree,0,general-organizational-communication,"Boston, MA",16000US2507000,boston-ma
+9,Communications,909,"Public Relations, Advertising, & Applied Communication",90902,Public Relations & Image Management,2021,2021,5,Bachelors Degree,6,public-relations-image-management,"Boston, MA",16000US2507000,boston-ma
+9,Communications,909,"Public Relations, Advertising, & Applied Communication",90903,Advertising,2021,2021,5,Bachelors Degree,35,advertising,"Boston, MA",16000US2507000,boston-ma
+9,Communications,909,"Public Relations, Advertising, & Applied Communication",90904,Political Communication,2021,2021,5,Bachelors Degree,25,political-communication,"Boston, MA",16000US2507000,boston-ma
+9,Communications,909,"Public Relations, Advertising, & Applied Communication",90906,Sports Communication,2021,2021,5,Bachelors Degree,23,sports-communication,"Boston, MA",16000US2507000,boston-ma
+9,Communications,909,"Public Relations, Advertising, & Applied Communication",90907,International & Intercultural Communication,2021,2021,5,Bachelors Degree,11,international-intercultural-communication,"Boston, MA",16000US2507000,boston-ma
+9,Communications,909,"Public Relations, Advertising, & Applied Communication",90908,Technical & Scientific Communication,2021,2021,5,Bachelors Degree,2,technical-scientific-communication,"Boston, MA",16000US2507000,boston-ma
+9,Communications,909,"Public Relations, Advertising, & Applied Communication",90999,"Other Public Relations, Advertising, & Applied Communication",2021,2021,5,Bachelors Degree,29,other-public-relations-advertising-applied-communication,"Boston, MA",16000US2507000,boston-ma
+10,Communication Technologies,1001,Communication Technology,100105,Communications Technology,2021,2021,5,Bachelors Degree,0,communications-technology,"Boston, MA",16000US2507000,boston-ma
+10,Communication Technologies,1002,Audiovisual Communications Technology,100202,Radio & Television Broadcasting Technology,2021,2021,5,Bachelors Degree,0,radio-television-broadcasting-technology,"Boston, MA",16000US2507000,boston-ma
+10,Communication Technologies,1003,Graphic Communications,100304,"Animation, Interactive Technology, Video Graphics, & Special Effects",2021,2021,5,Bachelors Degree,0,animation-interactive-technology-video-graphics-special-effects,"Boston, MA",16000US2507000,boston-ma
+11,Computer and Information Sciences and Support Services,1101,General Computer & Information Sciences,110101,General Computer & Information Sciences,2021,2021,5,Bachelors Degree,430,general-computer-information-sciences-110101,"Boston, MA",16000US2507000,boston-ma
+11,Computer and Information Sciences and Support Services,1101,General Computer & Information Sciences,110103,Information Technology,2021,2021,5,Bachelors Degree,180,information-technology,"Boston, MA",16000US2507000,boston-ma
+11,Computer and Information Sciences and Support Services,1104,Information Sciences,110401,Information Science,2021,2021,5,Bachelors Degree,83,information-science,"Boston, MA",16000US2507000,boston-ma
+11,Computer and Information Sciences and Support Services,1107,Computer Science,110701,Computer Science,2021,2021,5,Bachelors Degree,432,computer-science-110701,"Boston, MA",16000US2507000,boston-ma
+11,Computer and Information Sciences and Support Services,1108,Computer Software & Media Applications,110801,"Web Page, Digital, & Information Resource Design",2021,2021,5,Bachelors Degree,0,web-page-digital-information-resource-design,"Boston, MA",16000US2507000,boston-ma
+11,Computer and Information Sciences and Support Services,1108,Computer Software & Media Applications,110802,"Data Modeling, Warehouse, & Database Administration",2021,2021,5,Bachelors Degree,21,data-modeling-warehouse-database-administration,"Boston, MA",16000US2507000,boston-ma
+11,Computer and Information Sciences and Support Services,1108,Computer Software & Media Applications,110899,Other Computer Software & Media Applications,2021,2021,5,Bachelors Degree,338,other-computer-software-media-applications,"Boston, MA",16000US2507000,boston-ma
+11,Computer and Information Sciences and Support Services,1109,Networking & Telecommunication Systems,110901,Computer Systems Networking & Telecommunications,2021,2021,5,Bachelors Degree,32,computer-systems-networking-telecommunications,"Boston, MA",16000US2507000,boston-ma
+11,Computer and Information Sciences and Support Services,1110,Computer Technology Administration & Management,111003,Computer & Information Systems Security,2021,2021,5,Bachelors Degree,19,computer-information-systems-security,"Boston, MA",16000US2507000,boston-ma
+13,Education,1301,General Education,130101,General Education,2021,2021,5,Bachelors Degree,8,general-education-130101,"Boston, MA",16000US2507000,boston-ma
+13,Education,1302,Multilingual & Multicultural Education,130201,Bilingual & Multilingual Education,2021,2021,5,Bachelors Degree,1,bilingual-multilingual-education,"Boston, MA",16000US2507000,boston-ma
+13,Education,1310,Special Education,131001,General Special Education & Teaching,2021,2021,5,Bachelors Degree,9,general-special-education-teaching,"Boston, MA",16000US2507000,boston-ma
+13,Education,1310,Special Education,131003,Education of Individuals with Hearing Impairments,2021,2021,5,Bachelors Degree,0,education-of-individuals-with-hearing-impairments,"Boston, MA",16000US2507000,boston-ma
+13,Education,1312,Teacher Education at Specific Levels & Methods,131202,Elementary Education & Teaching,2021,2021,5,Bachelors Degree,33,elementary-education-teaching,"Boston, MA",16000US2507000,boston-ma
+13,Education,1312,Teacher Education at Specific Levels & Methods,131205,Secondary Education & Teaching,2021,2021,5,Bachelors Degree,8,secondary-education-teaching,"Boston, MA",16000US2507000,boston-ma
+13,Education,1312,Teacher Education at Specific Levels & Methods,131210,Early Childhood Education & Teaching,2021,2021,5,Bachelors Degree,125,early-childhood-education-teaching,"Boston, MA",16000US2507000,boston-ma
+13,Education,1313,Teacher Education for Specific Subject Areas,131302,Art Teacher Education,2021,2021,5,Bachelors Degree,21,art-teacher-education,"Boston, MA",16000US2507000,boston-ma
+13,Education,1313,Teacher Education for Specific Subject Areas,131305,English & Language Arts Teacher Education,2021,2021,5,Bachelors Degree,8,english-language-arts-teacher-education,"Boston, MA",16000US2507000,boston-ma
+13,Education,1313,Teacher Education for Specific Subject Areas,131306,Foreign Language Teacher Education,2021,2021,5,Bachelors Degree,3,foreign-language-teacher-education,"Boston, MA",16000US2507000,boston-ma
+13,Education,1313,Teacher Education for Specific Subject Areas,131311,Mathematics Teacher Education,2021,2021,5,Bachelors Degree,6,mathematics-teacher-education,"Boston, MA",16000US2507000,boston-ma
+13,Education,1313,Teacher Education for Specific Subject Areas,131312,Music Teacher Education,2021,2021,5,Bachelors Degree,17,music-teacher-education,"Boston, MA",16000US2507000,boston-ma
+13,Education,1313,Teacher Education for Specific Subject Areas,131316,General Science Teacher Education,2021,2021,5,Bachelors Degree,3,general-science-teacher-education,"Boston, MA",16000US2507000,boston-ma
+13,Education,1313,Teacher Education for Specific Subject Areas,131318,Social Studies Teacher Education,2021,2021,5,Bachelors Degree,7,social-studies-teacher-education,"Boston, MA",16000US2507000,boston-ma
+13,Education,1313,Teacher Education for Specific Subject Areas,131324,Drama & Dance Teacher Education,2021,2021,5,Bachelors Degree,15,drama-dance-teacher-education,"Boston, MA",16000US2507000,boston-ma
+13,Education,1399,Other Education Studies,139999,Other Education,2021,2021,5,Bachelors Degree,1,other-education,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1401,General Engineering,140101,General Engineering,2021,2021,5,Bachelors Degree,11,general-engineering-140101,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1405,Biomedical Engineering,140501,Bioengineering & Biomedical Engineering,2021,2021,5,Bachelors Degree,193,bioengineering-biomedical-engineering,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1407,Chemical Engineering,140701,Chemical Engineering,2021,2021,5,Bachelors Degree,119,chemical-engineering-140701,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1408,Civil Engineering,140801,General Civil Engineering,2021,2021,5,Bachelors Degree,171,general-civil-engineering,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1409,Computer Engineering,140901,General Computer Engineering,2021,2021,5,Bachelors Degree,311,general-computer-engineering,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1410,Electrical Engineering,141001,Electrical & Electronics Engineering,2021,2021,5,Bachelors Degree,158,electrical-electronics-engineering,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1414,Environmental Engineering,141401,Environmental Health Engineering,2021,2021,5,Bachelors Degree,0,environmental-health-engineering,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1419,Mechanical Engineering,141901,Mechanical Engineering,2021,2021,5,Bachelors Degree,504,mechanical-engineering-141901,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1435,Industrial Engineering,143501,Industrial Engineering,2021,2021,5,Bachelors Degree,87,industrial-engineering-143501,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1441,Electromechanical Engineering,144101,Electromechanical Engineering,2021,2021,5,Bachelors Degree,14,electromechanical-engineering-144101,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1445,Biological & Biosystems Engineering,144501,Biological & Biosystems Engineering,2021,2021,5,Bachelors Degree,0,biological-biosystems-engineering-144501,"Boston, MA",16000US2507000,boston-ma
+14,Engineering,1499,Other Engineering Studies,149999,Other Engineering,2021,2021,5,Bachelors Degree,108,other-engineering,"Boston, MA",16000US2507000,boston-ma
+15,Engineering Technologies,1501,Architectural Engineering Technologies,150101,Architectural Engineering Technology,2021,2021,5,Bachelors Degree,1,architectural-engineering-technology,"Boston, MA",16000US2507000,boston-ma
+15,Engineering Technologies,1503,Electrical Engineering Technologies,150303,"Electrical, Electronic, & Communications Engineering Technology",2021,2021,5,Bachelors Degree,3,electrical-electronic-communications-engineering-technology,"Boston, MA",16000US2507000,boston-ma
+15,Engineering Technologies,1506,Industrial Production Technologies,150613,Manufacturing Engineering Technology,2021,2021,5,Bachelors Degree,6,manufacturing-engineering-technology,"Boston, MA",16000US2507000,boston-ma
+15,Engineering Technologies,1508,Mechanical Engineering Technologies,150805,Mechanical Engineering Technology,2021,2021,5,Bachelors Degree,8,mechanical-engineering-technology,"Boston, MA",16000US2507000,boston-ma
+15,Engineering Technologies,1512,Computer Engineering Technologies,151201,Computer Engineering Technology,2021,2021,5,Bachelors Degree,2,computer-engineering-technology,"Boston, MA",16000US2507000,boston-ma
+15,Engineering Technologies,1599,Other Engineering Technology Studies,159999,Other Engineering Technologies & Engineering-Related Fields,2021,2021,5,Bachelors Degree,140,other-engineering-technologies-engineering-related-fields,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1601,"Linguistic, Comparative, & Related Language Studies",160102,Linguistics,2021,2021,5,Bachelors Degree,31,linguistics,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1601,"Linguistic, Comparative, & Related Language Studies",160104,Comparative Literature,2021,2021,5,Bachelors Degree,3,comparative-literature,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1601,"Linguistic, Comparative, & Related Language Studies",160199,"Other Linguistic, Comparative, Related Language Studies & Services",2021,2021,5,Bachelors Degree,3,other-linguistic-comparative-related-language-studies-services,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1603,"East Asian Languages, Literatures, & Linguistics",160301,Chinese Language & Literature,2021,2021,5,Bachelors Degree,1,chinese-language-literature,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1603,"East Asian Languages, Literatures, & Linguistics",160302,Japanese Language & Literature,2021,2021,5,Bachelors Degree,7,japanese-language-literature,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1603,"East Asian Languages, Literatures, & Linguistics",160399,"Other East Asian Languages, Literatures, & Linguistics",2021,2021,5,Bachelors Degree,0,other-east-asian-languages-literatures-linguistics,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1604,"Slavic, Baltic, & Albanian Languages, Literatures, & Linguistics",160402,Russian Language & Literature,2021,2021,5,Bachelors Degree,1,russian-language-literature,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1605,"Germanic Languages, Literatures, & Linguistics",160501,German Language & Literature,2021,2021,5,Bachelors Degree,0,german-language-literature,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1609,"Romance Languages, Literatures, & Linguistics",160901,French Language & Literature,2021,2021,5,Bachelors Degree,9,french-language-literature,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1609,"Romance Languages, Literatures, & Linguistics",160902,Italian Language & Literature,2021,2021,5,Bachelors Degree,0,italian-language-literature,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1609,"Romance Languages, Literatures, & Linguistics",160905,Spanish Language & Literature,2021,2021,5,Bachelors Degree,21,spanish-language-literature,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1609,"Romance Languages, Literatures, & Linguistics",160908,"General Hispanic & Latin American Languages, Literatures, & Linguistics",2021,2021,5,Bachelors Degree,0,general-hispanic-latin-american-languages-literatures-linguistics,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1609,"Romance Languages, Literatures, & Linguistics",160999,"Other Romance Languages, Literatures, & Linguistics",2021,2021,5,Bachelors Degree,1,other-romance-languages-literatures-linguistics,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1611,"Middle Eastern & Semitic Languages, Literatures, & Linguistics",161199,"Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics",2021,2021,5,Bachelors Degree,1,other-middlenear-eastern-semetic-languages-literatures-linguistics,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1612,"Classical Languages, Literatures, & Linguistics",161200,"General Classical Language, Literature, & Linguistics",2021,2021,5,Bachelors Degree,6,general-classical-language-literature-linguistics,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1612,"Classical Languages, Literatures, & Linguistics",161203,Latin Language & Literature,2021,2021,5,Bachelors Degree,0,latin-language-literature,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1612,"Classical Languages, Literatures, & Linguistics",161299,"Other Classical Languages, Literature, & Linguistics",2021,2021,5,Bachelors Degree,1,other-classical-languages-literature-linguistics,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1616,American Sign Language,161601,American Sign Language (ASL),2021,2021,5,Bachelors Degree,6,american-sign-language-asl,"Boston, MA",16000US2507000,boston-ma
+16,Language & Linguistics,1699,"Other Foreign Languages, Literature, & Linguistic Studies",169999,"Other Foreign Languages, Literatures, & Linguistics",2021,2021,5,Bachelors Degree,0,other-foreign-languages-literatures-linguistics,"Boston, MA",16000US2507000,boston-ma
+19,Human Sciences,1902,Family & Consumer Science Business Services,190203,Consumer Merchandising & Retail Management,2021,2021,5,Bachelors Degree,0,consumer-merchandising-retail-management,"Boston, MA",16000US2507000,boston-ma
+19,Human Sciences,1905,"Foods, Nutrition, & Related Services",190501,"General Food, Nutrition, & Wellness Studies",2021,2021,5,Bachelors Degree,0,general-food-nutrition-wellness-studies,"Boston, MA",16000US2507000,boston-ma
+19,Human Sciences,1905,"Foods, Nutrition, & Related Services",190505,Foodservice System Management,2021,2021,5,Bachelors Degree,1,foodservice-system-management,"Boston, MA",16000US2507000,boston-ma
+22,Legal,2200,Undergraduate Non-Professional General Legal Studies,220000,General Legal Studies,2021,2021,5,Bachelors Degree,69,general-legal-studies,"Boston, MA",16000US2507000,boston-ma
+22,Legal,2203,Legal Support Services,220302,Paralegal,2021,2021,5,Bachelors Degree,1,paralegal,"Boston, MA",16000US2507000,boston-ma
+23,English,2301,General English Language & Literature,230101,General English Language & Literature,2021,2021,5,Bachelors Degree,190,general-english-language-literature-230101,"Boston, MA",16000US2507000,boston-ma
+23,English,2313,Rhetoric & Composition,231302,Creative Writing,2021,2021,5,Bachelors Degree,136,creative-writing-231302,"Boston, MA",16000US2507000,boston-ma
+23,English,2313,Rhetoric & Composition,231303,"Professional, Technical, Business, & Scientific Writing",2021,2021,5,Bachelors Degree,1,professional-technical-business-scientific-writing,"Boston, MA",16000US2507000,boston-ma
+23,English,2399,Other English Language & Literature,239999,Other English Language & Literature,2021,2021,5,Bachelors Degree,29,other-english-language-literature-239999,"Boston, MA",16000US2507000,boston-ma
+24,Liberal Arts & Humanities,2401,Liberal Arts & Sciences,240101,Liberal Arts & Sciences,2021,2021,5,Bachelors Degree,40,liberal-arts-sciences-240101,"Boston, MA",16000US2507000,boston-ma
+24,Liberal Arts & Humanities,2401,Liberal Arts & Sciences,240103,Humanistic Studies,2021,2021,5,Bachelors Degree,1,humanistic-studies,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2601,General Biology,260101,General Biological Sciences,2021,2021,5,Bachelors Degree,542,general-biological-sciences,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2602,"Biochemistry, Biophysics, & Molecular Biology",260202,Biochemistry,2021,2021,5,Bachelors Degree,106,biochemistry,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2602,"Biochemistry, Biophysics, & Molecular Biology",260203,Biophysics,2021,2021,5,Bachelors Degree,4,biophysics,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2602,"Biochemistry, Biophysics, & Molecular Biology",260204,Molecular Biology,2021,2021,5,Bachelors Degree,114,molecular-biology,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2602,"Biochemistry, Biophysics, & Molecular Biology",260209,Radiation Biology,2021,2021,5,Bachelors Degree,15,radiation-biology,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2602,"Biochemistry, Biophysics, & Molecular Biology",260210,Biochemistry & Molecular Biology,2021,2021,5,Bachelors Degree,82,biochemistry-molecular-biology,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2604,Cellular Biology & Anatomical Sciences,260406,Cellular & Molecular Biology,2021,2021,5,Bachelors Degree,65,cellular-molecular-biology,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2609,Physiology & Pathology,260901,General Physiology,2021,2021,5,Bachelors Degree,96,general-physiology,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2610,Pharmacology & Toxicology,261007,Pharmacology & Toxicology,2021,2021,5,Bachelors Degree,1,pharmacology-toxicology-261007,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2611,"Biomathematics, Bioinformatics, & Computational Biology",261102,Biostatistics,2021,2021,5,Bachelors Degree,5,biostatistics,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2611,"Biomathematics, Bioinformatics, & Computational Biology",261103,Bioinformatics,2021,2021,5,Bachelors Degree,0,bioinformatics,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2612,Biotechnology,261201,Biotechnology,2021,2021,5,Bachelors Degree,30,biotechnology-261201,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2613,"Ecology, Evolution, Systematics, & Population Biology",261302,Marine Biology & Biological Oceonography,2021,2021,5,Bachelors Degree,31,marine-biology-biological-oceonography,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2613,"Ecology, Evolution, Systematics, & Population Biology",261305,Environmental Biology,2021,2021,5,Bachelors Degree,0,environmental-biology,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2613,"Ecology, Evolution, Systematics, & Population Biology",261307,Conservation Biology,2021,2021,5,Bachelors Degree,14,conservation-biology,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2613,"Ecology, Evolution, Systematics, & Population Biology",261310,Ecology & Evolutionary Biology,2021,2021,5,Bachelors Degree,3,ecology-evolutionary-biology,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2615,Neurobiology & Neurosciences,261501,Neuroscience,2021,2021,5,Bachelors Degree,289,neuroscience-261501,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2615,Neurobiology & Neurosciences,261504,Neurobiology & Behavior,2021,2021,5,Bachelors Degree,9,neurobiology-behavior,"Boston, MA",16000US2507000,boston-ma
+26,Biology,2699,Other Biological & Biomedical Science Studies,269999,Other Biological & Biomedical Sciences,2021,2021,5,Bachelors Degree,6,other-biological-biomedical-sciences,"Boston, MA",16000US2507000,boston-ma
+27,Math & Statistics,2701,Mathematics,270101,General Mathematics,2021,2021,5,Bachelors Degree,242,general-mathematics,"Boston, MA",16000US2507000,boston-ma
+27,Math & Statistics,2701,Mathematics,270199,Other Mathematics,2021,2021,5,Bachelors Degree,0,other-mathematics,"Boston, MA",16000US2507000,boston-ma
+27,Math & Statistics,2703,Applied Mathematics,270301,General Applied Mathematics,2021,2021,5,Bachelors Degree,17,general-applied-mathematics,"Boston, MA",16000US2507000,boston-ma
+27,Math & Statistics,2703,Applied Mathematics,270303,Computational Mathematics,2021,2021,5,Bachelors Degree,8,computational-mathematics,"Boston, MA",16000US2507000,boston-ma
+27,Math & Statistics,2703,Applied Mathematics,270304,Computational & Applied Mathematics,2021,2021,5,Bachelors Degree,0,computational-applied-mathematics,"Boston, MA",16000US2507000,boston-ma
+27,Math & Statistics,2703,Applied Mathematics,270305,Financial Mathematics,2021,2021,5,Bachelors Degree,0,financial-mathematics,"Boston, MA",16000US2507000,boston-ma
+27,Math & Statistics,2705,Statistics,270503,Mathematics & Statistics,2021,2021,5,Bachelors Degree,2,mathematics-statistics,"Boston, MA",16000US2507000,boston-ma
+30,Interdisciplinary Studies,3000,General Interdisciplinary Studies,300000,General Interdisciplinary Studies,2021,2021,5,Bachelors Degree,18,general-interdisciplinary-studies-300000,"Boston, MA",16000US2507000,boston-ma
+30,Interdisciplinary Studies,3001,Biological & Physical Sciences,300101,Biological & Physical Sciences,2021,2021,5,Bachelors Degree,2,biological-physical-sciences-300101,"Boston, MA",16000US2507000,boston-ma
+30,Interdisciplinary Studies,3010,Biopsychology,301001,Biopsychology,2021,2021,5,Bachelors Degree,0,biopsychology-301001,"Boston, MA",16000US2507000,boston-ma
+30,Interdisciplinary Studies,3015,"Science, Technology, & Society",301501,"Science, Technology, & Society",2021,2021,5,Bachelors Degree,0,science-technology-society-301501,"Boston, MA",16000US2507000,boston-ma
+30,Interdisciplinary Studies,3019,Nutrition Sciences,301901,Nutrition Sciences,2021,2021,5,Bachelors Degree,25,nutrition-sciences-301901,"Boston, MA",16000US2507000,boston-ma
+30,Interdisciplinary Studies,3020,International Studies,302001,International & Global Studies,2021,2021,5,Bachelors Degree,23,international-global-studies,"Boston, MA",16000US2507000,boston-ma
+30,Interdisciplinary Studies,3022,Classical & Ancient Studies,302201,Ancient Civilization Studies,2021,2021,5,Bachelors Degree,6,ancient-civilization-studies,"Boston, MA",16000US2507000,boston-ma
+30,Interdisciplinary Studies,3025,Cognitive Science,302501,Cognitive Science,2021,2021,5,Bachelors Degree,16,cognitive-science-302501,"Boston, MA",16000US2507000,boston-ma
+30,Interdisciplinary Studies,3099,Other Interdisciplinary Studies,309999,Other Multidisciplinary Studies,2021,2021,5,Bachelors Degree,136,other-multidisciplinary-studies,"Boston, MA",16000US2507000,boston-ma
+31,"Parks, Recreation, & Leisure",3105,Health & Physical Education,310501,General Health & Physical Education,2021,2021,5,Bachelors Degree,131,general-health-physical-education,"Boston, MA",16000US2507000,boston-ma
+31,"Parks, Recreation, & Leisure",3105,Health & Physical Education,310504,Sport & Fitness Management,2021,2021,5,Bachelors Degree,24,sport-fitness-management,"Boston, MA",16000US2507000,boston-ma
+31,"Parks, Recreation, & Leisure",3105,Health & Physical Education,310505,Kinesiology & Exercise Science,2021,2021,5,Bachelors Degree,24,kinesiology-exercise-science,"Boston, MA",16000US2507000,boston-ma
+31,"Parks, Recreation, & Leisure",3105,Health & Physical Education,310508,Sports Studies,2021,2021,5,Bachelors Degree,2,sports-studies,"Boston, MA",16000US2507000,boston-ma
+38,Philosophy and Religious Studies,3801,Philosophy,380101,Philosophy,2021,2021,5,Bachelors Degree,77,philosophy-380101,"Boston, MA",16000US2507000,boston-ma
+38,Philosophy and Religious Studies,3801,Philosophy,380199,Other Philosophy,2021,2021,5,Bachelors Degree,5,other-philosophy,"Boston, MA",16000US2507000,boston-ma
+38,Philosophy and Religious Studies,3802,Religious Studies,380201,Religious Studies,2021,2021,5,Bachelors Degree,4,religious-studies-380201,"Boston, MA",16000US2507000,boston-ma
+39,THEOLOGY AND RELIGIOUS VOCATIONS.,3902,Biblical Studies,390201,Biblical Studies,2021,2021,5,Bachelors Degree,6,biblical-studies-390201,"Boston, MA",16000US2507000,boston-ma
+39,THEOLOGY AND RELIGIOUS VOCATIONS.,3906,Theological & Ministerial Studies,390604,Pre-Theology & Pre-Ministerial Studies,2021,2021,5,Bachelors Degree,8,pre-theology-pre-ministerial-studies,"Boston, MA",16000US2507000,boston-ma
+40,Physical Sciences,4002,Astronomy & Astrophysics,400201,Astronomy,2021,2021,5,Bachelors Degree,12,astronomy,"Boston, MA",16000US2507000,boston-ma
+40,Physical Sciences,4005,Chemistry,400501,General Chemistry,2021,2021,5,Bachelors Degree,79,general-chemistry,"Boston, MA",16000US2507000,boston-ma
+40,Physical Sciences,4005,Chemistry,400510,Forensic Chemistry,2021,2021,5,Bachelors Degree,0,forensic-chemistry,"Boston, MA",16000US2507000,boston-ma
+40,Physical Sciences,4005,Chemistry,400599,Other Chemistry,2021,2021,5,Bachelors Degree,8,other-chemistry,"Boston, MA",16000US2507000,boston-ma
+40,Physical Sciences,4006,Geological & Earth Sciences,400601,General Geology & Earch Science,2021,2021,5,Bachelors Degree,1,general-geology-earch-science,"Boston, MA",16000US2507000,boston-ma
+40,Physical Sciences,4006,Geological & Earth Sciences,400603,Geophysics & Seismology,2021,2021,5,Bachelors Degree,0,geophysics-seismology,"Boston, MA",16000US2507000,boston-ma
+40,Physical Sciences,4008,Physics,400801,General Physics,2021,2021,5,Bachelors Degree,52,general-physics,"Boston, MA",16000US2507000,boston-ma
+40,Physical Sciences,4099,Other Physical Sciences,409999,Other Physical Sciences,2021,2021,5,Bachelors Degree,4,other-physical-sciences-409999,"Boston, MA",16000US2507000,boston-ma
+42,Psychology,4201,General Psychology,420101,General Psychology,2021,2021,5,Bachelors Degree,683,general-psychology-420101,"Boston, MA",16000US2507000,boston-ma
+42,Psychology,4227,Research & Experimental Psychology,422703,Developmental & Child Psychology,2021,2021,5,Bachelors Degree,27,developmental-child-psychology,"Boston, MA",16000US2507000,boston-ma
+42,Psychology,4227,Research & Experimental Psychology,422706,Physiological Psychology & Psychobiology,2021,2021,5,Bachelors Degree,0,physiological-psychology-psychobiology,"Boston, MA",16000US2507000,boston-ma
+42,Psychology,4227,Research & Experimental Psychology,422707,Social Psychology,2021,2021,5,Bachelors Degree,29,social-psychology-422707,"Boston, MA",16000US2507000,boston-ma
+42,Psychology,4227,Research & Experimental Psychology,422799,Other Research & Experimental Psychology,2021,2021,5,Bachelors Degree,143,other-research-experimental-psychology,"Boston, MA",16000US2507000,boston-ma
+42,Psychology,4228,"Clinical, Counseling, & Applied Psychology",422803,Counseling Psychology,2021,2021,5,Bachelors Degree,53,counseling-psychology-422803,"Boston, MA",16000US2507000,boston-ma
+42,Psychology,4228,"Clinical, Counseling, & Applied Psychology",422810,Health & Medical Psychology,2021,2021,5,Bachelors Degree,20,health-medical-psychology,"Boston, MA",16000US2507000,boston-ma
+43,Protective Services,4301,Criminal Justice & Corrections,430104,Criminal Justice - Safety Studies,2021,2021,5,Bachelors Degree,210,criminal-justice-safety-studies,"Boston, MA",16000US2507000,boston-ma
+43,Protective Services,4301,Criminal Justice & Corrections,430199,Other Corrections & Criminal Justice,2021,2021,5,Bachelors Degree,51,other-corrections-criminal-justice,"Boston, MA",16000US2507000,boston-ma
+43,Protective Services,4304,Security Science and Technology.,430403,Cyber/Computer Forensics and Counterterrorism.,2021,2021,5,Bachelors Degree,0,,"Boston, MA",16000US2507000,boston-ma
+44,Public Administration and Social Service,4400,General Human Services,440000,General Human Services,2021,2021,5,Bachelors Degree,94,general-human-services-440000,"Boston, MA",16000US2507000,boston-ma
+44,Public Administration and Social Service,4402,Community Organization & Advocacy,440201,Community Organization & Advocacy,2021,2021,5,Bachelors Degree,6,community-organization-advocacy-440201,"Boston, MA",16000US2507000,boston-ma
+44,Public Administration and Social Service,4405,Public Work Analysis,440504,International Policy Analysis,2021,2021,5,Bachelors Degree,0,international-policy-analysis,"Boston, MA",16000US2507000,boston-ma
+44,Public Administration and Social Service,4407,Social Work,440701,Social Work,2021,2021,5,Bachelors Degree,69,social-work-440701,"Boston, MA",16000US2507000,boston-ma
+44,Public Administration and Social Service,4407,Social Work,440702,Youth Services Administration,2021,2021,5,Bachelors Degree,5,youth-services-administration,"Boston, MA",16000US2507000,boston-ma
+44,Public Administration and Social Service,4499,Other Public Administration & Social Services,449999,Other Public Administration & Social Service Professions,2021,2021,5,Bachelors Degree,1,other-public-administration-social-service-professions,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4501,General Social Sciences,450101,General Social Sciences,2021,2021,5,Bachelors Degree,3,general-social-sciences-450101,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4502,Anthropology,450201,Anthropology,2021,2021,5,Bachelors Degree,49,anthropology-450201,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4502,Anthropology,450204,Cultural Anthropology,2021,2021,5,Bachelors Degree,0,cultural-anthropology,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4503,Archeology,450301,Archeology,2021,2021,5,Bachelors Degree,8,archeology-450301,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4504,Crminology,450401,Criminology,2021,2021,5,Bachelors Degree,9,criminology,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4506,Economics,450601,General Economics,2021,2021,5,Bachelors Degree,451,general-economics,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4506,Economics,450603,Econometrics & Quantitative Economics,2021,2021,5,Bachelors Degree,153,econometrics-quantitative-economics,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4506,Economics,450604,Developmental Economics & International Development,2021,2021,5,Bachelors Degree,14,developmental-economics-international-development,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4506,Economics,450605,International Economics,2021,2021,5,Bachelors Degree,2,international-economics,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4506,Economics,450699,Other Economics,2021,2021,5,Bachelors Degree,0,other-economics,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4507,Geography & Cartography,450701,Geography,2021,2021,5,Bachelors Degree,0,geography,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4509,International Relations & National Security Studies,450901,International Relations & Affairs,2021,2021,5,Bachelors Degree,346,international-relations-affairs,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4510,Political Science & Government,451001,General Political Science & Government,2021,2021,5,Bachelors Degree,386,general-political-science-government,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4510,Political Science & Government,451002,US Government & Politics,2021,2021,5,Bachelors Degree,3,us-government-politics,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4510,Political Science & Government,451004,Political Economy,2021,2021,5,Bachelors Degree,1,political-economy,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4510,Political Science & Government,451099,Other Political Science & Government,2021,2021,5,Bachelors Degree,36,other-political-science-government,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4511,Sociology,451101,Sociology,2021,2021,5,Bachelors Degree,208,sociology-451101,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4512,Urban Affairs,451201,Urban Studies,2021,2021,5,Bachelors Degree,2,urban-studies,"Boston, MA",16000US2507000,boston-ma
+45,Social Sciences,4599,Other Social Sciences,459999,Other Social Sciences,2021,2021,5,Bachelors Degree,23,other-social-sciences-459999,"Boston, MA",16000US2507000,boston-ma
+47,Mechanical Technologies,4706,Vehicle Maintenance & Repair Technologies,470604,Automobile Mechanics Technology,2021,2021,5,Bachelors Degree,4,automobile-mechanics-technology,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5001,General Visual & Performaing Arts,500101,General Visual & Performing Arts,2021,2021,5,Bachelors Degree,2,general-visual-performing-arts,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5001,General Visual & Performaing Arts,500102,Digital Arts,2021,2021,5,Bachelors Degree,7,digital-arts,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5002,"Craft Design, Folk Art, & Artisanry",500201,"Crafts Design, Folk Art, & Artisanry",2021,2021,5,Bachelors Degree,5,crafts-design-folk-art-artisanry,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5003,Dance,500301,General Dance,2021,2021,5,Bachelors Degree,30,general-dance,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5004,Design & Applied Arts,500401,General Design & Visual Communications,2021,2021,5,Bachelors Degree,55,general-design-visual-communications,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5004,Design & Applied Arts,500404,Industrial & Product Design,2021,2021,5,Bachelors Degree,60,industrial-product-design,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5004,Design & Applied Arts,500407,Fashion & Apparel Design,2021,2021,5,Bachelors Degree,43,fashion-apparel-design,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5004,Design & Applied Arts,500408,Interior Design,2021,2021,5,Bachelors Degree,41,interior-design,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5004,Design & Applied Arts,500409,Graphic Design,2021,2021,5,Bachelors Degree,108,graphic-design,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5004,Design & Applied Arts,500410,Illustration,2021,2021,5,Bachelors Degree,74,illustration,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5004,Design & Applied Arts,500411,Game & Interactive Media Design,2021,2021,5,Bachelors Degree,8,game-interactive-media-design,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5004,Design & Applied Arts,500499,Other Design & Applied Arts,2021,2021,5,Bachelors Degree,1,other-design-applied-arts,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5005,Theater Arts & Stagecraft,500501,General Drama & Theater Arts,2021,2021,5,Bachelors Degree,106,general-drama-theater-arts,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5005,Theater Arts & Stagecraft,500502,Technical Theatre Design & Technology,2021,2021,5,Bachelors Degree,37,technical-theatre-design-technology,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5005,Theater Arts & Stagecraft,500506,Acting,2021,2021,5,Bachelors Degree,32,acting,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5005,Theater Arts & Stagecraft,500507,Directing & Theatrical Production,2021,2021,5,Bachelors Degree,11,directing-theatrical-production,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5005,Theater Arts & Stagecraft,500509,Musical Theatre,2021,2021,5,Bachelors Degree,73,musical-theatre,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5005,Theater Arts & Stagecraft,500599,Other Dramatic Arts & Stagecraft,2021,2021,5,Bachelors Degree,27,other-dramatic-arts-stagecraft,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5006,Video & Photographic Arts,500601,"Film, Cinema, & Video Studies",2021,2021,5,Bachelors Degree,7,film-cinema-video-studies,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5006,Video & Photographic Arts,500602,Cinematography & Film Production,2021,2021,5,Bachelors Degree,373,cinematography-film-production,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5006,Video & Photographic Arts,500605,Photography,2021,2021,5,Bachelors Degree,28,photography,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5006,Video & Photographic Arts,500607,Documentary Production,2021,2021,5,Bachelors Degree,1,documentary-production,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5006,Video & Photographic Arts,500699,Other Film & Photographic Arts,2021,2021,5,Bachelors Degree,45,other-film-photographic-arts,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500701,General Art Studies,2021,2021,5,Bachelors Degree,29,general-art-studies,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500702,General Fine Studio Arts,2021,2021,5,Bachelors Degree,15,general-fine-studio-arts,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500703,"Art History, Criticism, & Conservation",2021,2021,5,Bachelors Degree,24,art-history-criticism-conservation,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500706,Multimedia,2021,2021,5,Bachelors Degree,22,multimedia,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500708,Painting,2021,2021,5,Bachelors Degree,48,painting,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500709,Sculpture,2021,2021,5,Bachelors Degree,14,sculpture,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500710,Printmaking,2021,2021,5,Bachelors Degree,14,printmaking,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500711,Ceramic Arts & Ceramics,2021,2021,5,Bachelors Degree,9,ceramic-arts-ceramics,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500712,"Fiber, Textile, & Weaving Arts",2021,2021,5,Bachelors Degree,9,fiber-textile-weaving-arts,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5007,Fine & Studio Arts,500713,Metal & Jewelry Arts,2021,2021,5,Bachelors Degree,6,metal-jewelry-arts,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500901,General Music,2021,2021,5,Bachelors Degree,52,general-music,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500902,"Music History, Literature, & Theory",2021,2021,5,Bachelors Degree,1,music-history-literature-theory,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500903,General Music Performance,2021,2021,5,Bachelors Degree,215,general-music-performance,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500904,Music Theory & Composition,2021,2021,5,Bachelors Degree,166,music-theory-composition,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500905,Musicology & Ethnomusicology,2021,2021,5,Bachelors Degree,0,musicology-ethnomusicology,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500907,Keyboard Instruments,2021,2021,5,Bachelors Degree,10,keyboard-instruments,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500908,Voice & Opera,2021,2021,5,Bachelors Degree,23,voice-opera,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500910,Jazz & Jazz Studies,2021,2021,5,Bachelors Degree,6,jazz-jazz-studies,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500911,Stringed Instruments,2021,2021,5,Bachelors Degree,34,stringed-instruments,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500913,Music Technology,2021,2021,5,Bachelors Degree,0,music-technology,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500914,Brass Instruments,2021,2021,5,Bachelors Degree,3,brass-instruments,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500915,Woodwind Instruments,2021,2021,5,Bachelors Degree,7,woodwind-instruments,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500916,Percussion Instruments,2021,2021,5,Bachelors Degree,2,percussion-instruments,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5009,Music,500999,Other Music,2021,2021,5,Bachelors Degree,216,other-music,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5010,"Arts, Entertainment, & Media Management",501001,"General Arts, Entertainment, & Media Management",2021,2021,5,Bachelors Degree,3,general-arts-entertainment-media-management,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5010,"Arts, Entertainment, & Media Management",501002,Fine & Studio Arts Management,2021,2021,5,Bachelors Degree,4,fine-studio-arts-management,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5010,"Arts, Entertainment, & Media Management",501003,Music Management,2021,2021,5,Bachelors Degree,146,music-management,"Boston, MA",16000US2507000,boston-ma
+50,Visual & Performing Arts,5010,"Arts, Entertainment, & Media Management",501004,Theatre Arts Management,2021,2021,5,Bachelors Degree,0,theatre-arts-management,"Boston, MA",16000US2507000,boston-ma
+51,Health,5100,General Allied Health & Health Sciences,510000,General Health Services,2021,2021,5,Bachelors Degree,237,general-health-services,"Boston, MA",16000US2507000,boston-ma
+51,Health,5100,General Allied Health & Health Sciences,510001,General Health & Wellness,2021,2021,5,Bachelors Degree,3,general-health-wellness,"Boston, MA",16000US2507000,boston-ma
+51,Health,5102,Communication Disorders Sciences & Services,510201,General Communication Sciences & Disorders,2021,2021,5,Bachelors Degree,14,general-communication-sciences-disorders,"Boston, MA",16000US2507000,boston-ma
+51,Health,5102,Communication Disorders Sciences & Services,510204,Audiology & Speech-Language Pathology,2021,2021,5,Bachelors Degree,19,audiology-speech-language-pathology,"Boston, MA",16000US2507000,boston-ma
+51,Health,5106,Dental Support Services,510602,Dental Hygiene,2021,2021,5,Bachelors Degree,73,dental-hygiene,"Boston, MA",16000US2507000,boston-ma
+51,Health,5107,Health & Medical Administrative Services,510701,Health Care Administration & Management,2021,2021,5,Bachelors Degree,37,health-care-administration-management,"Boston, MA",16000US2507000,boston-ma
+51,Health,5107,Health & Medical Administrative Services,510702,Hospital & Health Care Facilities Management,2021,2021,5,Bachelors Degree,13,hospital-health-care-facilities-management,"Boston, MA",16000US2507000,boston-ma
+51,Health,5107,Health & Medical Administrative Services,510706,Health Information & Medical Records Administration,2021,2021,5,Bachelors Degree,5,health-information-medical-records-administration,"Boston, MA",16000US2507000,boston-ma
+51,Health,5107,Health & Medical Administrative Services,510707,Health Information & Medical Records Technology,2021,2021,5,Bachelors Degree,5,health-information-medical-records-technology,"Boston, MA",16000US2507000,boston-ma
+51,Health,5107,Health & Medical Administrative Services,510799,Other Health & Medical Administrative Services,2021,2021,5,Bachelors Degree,165,other-health-medical-administrative-services,"Boston, MA",16000US2507000,boston-ma
+51,Health,5109,"Allied Diagnostic, Intervention, & Treatment Professions",510905,Nuclear Medical Technologist,2021,2021,5,Bachelors Degree,12,nuclear-medical-technologist,"Boston, MA",16000US2507000,boston-ma
+51,Health,5109,"Allied Diagnostic, Intervention, & Treatment Professions",510907,Radiation Therapist,2021,2021,5,Bachelors Degree,17,radiation-therapist,"Boston, MA",16000US2507000,boston-ma
+51,Health,5109,"Allied Diagnostic, Intervention, & Treatment Professions",510910,Diagnostic Medical Sonography & Ultrasound Technician,2021,2021,5,Bachelors Degree,45,diagnostic-medical-sonography-ultrasound-technician,"Boston, MA",16000US2507000,boston-ma
+51,Health,5109,"Allied Diagnostic, Intervention, & Treatment Professions",510911,Radiographer,2021,2021,5,Bachelors Degree,14,radiographer,"Boston, MA",16000US2507000,boston-ma
+51,Health,5109,"Allied Diagnostic, Intervention, & Treatment Professions",510913,Athletic Trainer,2021,2021,5,Bachelors Degree,0,athletic-trainer,"Boston, MA",16000US2507000,boston-ma
+51,Health,5109,"Allied Diagnostic, Intervention, & Treatment Professions",510920,Magnetic Resonance Imaging (MRI) Technician,2021,2021,5,Bachelors Degree,11,magnetic-resonance-imaging-mri-technician,"Boston, MA",16000US2507000,boston-ma
+51,Health,5110,Medical Laboratory Research & Allied Professions,511004,Clinical Laboratory Technician,2021,2021,5,Bachelors Degree,17,clinical-laboratory-technician,"Boston, MA",16000US2507000,boston-ma
+51,Health,5111,Medical Preparatory Programs,511101,Pre-Dentistry Studies,2021,2021,5,Bachelors Degree,10,pre-dentistry-studies,"Boston, MA",16000US2507000,boston-ma
+51,Health,5111,Medical Preparatory Programs,511102,Pre-Medical Studies,2021,2021,5,Bachelors Degree,105,pre-medical-studies,"Boston, MA",16000US2507000,boston-ma
+51,Health,5111,Medical Preparatory Programs,511108,Pre-Optometry Studies,2021,2021,5,Bachelors Degree,3,pre-optometry-studies,"Boston, MA",16000US2507000,boston-ma
+51,Health,5111,Medical Preparatory Programs,511109,Pre-Physical Therapy Studies,2021,2021,5,Bachelors Degree,0,pre-physical-therapy-studies,"Boston, MA",16000US2507000,boston-ma
+51,Health,5111,Medical Preparatory Programs,511199,Other Health Preparatory Programs,2021,2021,5,Bachelors Degree,39,other-health-preparatory-programs,"Boston, MA",16000US2507000,boston-ma
+51,Health,5118,Ophthalmic & Optometric Support Services,511899,Other Ophthalmic & Optometric Support Services,2021,2021,5,Bachelors Degree,0,other-ophthalmic-optometric-support-services,"Boston, MA",16000US2507000,boston-ma
+51,Health,5120,Pharmaceutical Sciences & Administration,512001,Pharmacy,2021,2021,5,Bachelors Degree,367,pharmacy,"Boston, MA",16000US2507000,boston-ma
+51,Health,5120,Pharmaceutical Sciences & Administration,512004,Medicinal & Pharmaceutical Chemistry,2021,2021,5,Bachelors Degree,4,medicinal-pharmaceutical-chemistry,"Boston, MA",16000US2507000,boston-ma
+51,Health,5120,Pharmaceutical Sciences & Administration,512010,Pharmaceutical Sciences,2021,2021,5,Bachelors Degree,33,pharmaceutical-sciences,"Boston, MA",16000US2507000,boston-ma
+51,Health,5120,Pharmaceutical Sciences & Administration,512011,Pharmaceutical Marketing & Management,2021,2021,5,Bachelors Degree,17,pharmaceutical-marketing-management,"Boston, MA",16000US2507000,boston-ma
+51,Health,5120,Pharmaceutical Sciences & Administration,512099,"Other Pharmacy, Pharmaceutical Sciences, & Administration",2021,2021,5,Bachelors Degree,0,other-pharmacy-pharmaceutical-sciences-administration,"Boston, MA",16000US2507000,boston-ma
+51,Health,5122,Public Health,512201,General Public Health,2021,2021,5,Bachelors Degree,16,general-public-health,"Boston, MA",16000US2507000,boston-ma
+51,Health,5122,Public Health,512207,Public Health Education & Promotion,2021,2021,5,Bachelors Degree,17,public-health-education-promotion,"Boston, MA",16000US2507000,boston-ma
+51,Health,5123,Rehabilitation & Therapeutic Professions,512301,Art Therapy,2021,2021,5,Bachelors Degree,4,art-therapy,"Boston, MA",16000US2507000,boston-ma
+51,Health,5123,Rehabilitation & Therapeutic Professions,512305,Music Therapy,2021,2021,5,Bachelors Degree,31,music-therapy,"Boston, MA",16000US2507000,boston-ma
+51,Health,5123,Rehabilitation & Therapeutic Professions,512308,Physical Therapy,2021,2021,5,Bachelors Degree,46,physical-therapy,"Boston, MA",16000US2507000,boston-ma
+51,Health,5123,Rehabilitation & Therapeutic Professions,512314,Rehabilitation Science,2021,2021,5,Bachelors Degree,64,rehabilitation-science,"Boston, MA",16000US2507000,boston-ma
+51,Health,5123,Rehabilitation & Therapeutic Professions,512399,Other Rehabilitation & Therapeutic Professions,2021,2021,5,Bachelors Degree,0,other-rehabilitation-therapeutic-professions,"Boston, MA",16000US2507000,boston-ma
+51,Health,5127,Medical Illustration & Informatics,512706,Medical Informatics,2021,2021,5,Bachelors Degree,0,medical-informatics,"Boston, MA",16000US2507000,boston-ma
+51,Health,5131,Dietetics & Clinical Nutrition Services,513101,Dietetics,2021,2021,5,Bachelors Degree,1,dietetics,"Boston, MA",16000US2507000,boston-ma
+51,Health,5138,"Registered Nursing, Nursing Administration, & Nursing Research",513801,Registered Nursing,2021,2021,5,Bachelors Degree,1064,registered-nursing,"Boston, MA",16000US2507000,boston-ma
+51,Health,5138,"Registered Nursing, Nursing Administration, & Nursing Research",513805,Family Practice Nurse,2021,2021,5,Bachelors Degree,44,family-practice-nurse,"Boston, MA",16000US2507000,boston-ma
+51,Health,5138,"Registered Nursing, Nursing Administration, & Nursing Research",513808,Nursing School,2021,2021,5,Bachelors Degree,258,nursing-school,"Boston, MA",16000US2507000,boston-ma
+51,Health,5138,"Registered Nursing, Nursing Administration, & Nursing Research",513818,Nursing Practice,2021,2021,5,Bachelors Degree,175,nursing-practice,"Boston, MA",16000US2507000,boston-ma
+51,Health,5199,Other Health Professions & Related Clinical Sciences,519999,Other Health Professions & Related Clinical Sciences,2021,2021,5,Bachelors Degree,24,other-health-professions-related-clinical-sciences-519999,"Boston, MA",16000US2507000,boston-ma
+52,Business,5201,General Business & Commerce,520101,General Business,2021,2021,5,Bachelors Degree,922,general-business,"Boston, MA",16000US2507000,boston-ma
+52,Business,5202,"Business Administration, Management, & Operations",520201,General Business Administration & Management,2021,2021,5,Bachelors Degree,1525,general-business-administration-management,"Boston, MA",16000US2507000,boston-ma
+52,Business,5202,"Business Administration, Management, & Operations",520203,"Logistics, Materials, & Supply Chain Management",2021,2021,5,Bachelors Degree,0,logistics-materials-supply-chain-management,"Boston, MA",16000US2507000,boston-ma
+52,Business,5202,"Business Administration, Management, & Operations",520205,Operations Management & Supervision,2021,2021,5,Bachelors Degree,2,operations-management-supervision,"Boston, MA",16000US2507000,boston-ma
+52,Business,5202,"Business Administration, Management, & Operations",520206,"Non-Profit, Public, & Organizational Management",2021,2021,5,Bachelors Degree,0,non-profit-public-organizational-management,"Boston, MA",16000US2507000,boston-ma
+52,Business,5202,"Business Administration, Management, & Operations",520213,Organizational Leadership,2021,2021,5,Bachelors Degree,13,organizational-leadership,"Boston, MA",16000US2507000,boston-ma
+52,Business,5202,"Business Administration, Management, & Operations",520299,"Other Business Administration, Management, & Operations",2021,2021,5,Bachelors Degree,0,other-business-administration-management-operations,"Boston, MA",16000US2507000,boston-ma
+52,Business,5203,Accounting,520301,Accounting,2021,2021,5,Bachelors Degree,82,accounting-520301,"Boston, MA",16000US2507000,boston-ma
+52,Business,5203,Accounting,520304,Accounting & Finance,2021,2021,5,Bachelors Degree,4,accounting-finance,"Boston, MA",16000US2507000,boston-ma
+52,Business,5203,Accounting,520305,Accounting & Business Management,2021,2021,5,Bachelors Degree,1,accounting-business-management,"Boston, MA",16000US2507000,boston-ma
+52,Business,5206,Managerial Economics,520601,Business & Managerial Economics,2021,2021,5,Bachelors Degree,24,business-managerial-economics,"Boston, MA",16000US2507000,boston-ma
+52,Business,5207,Entrepreneurial & Small Business Operations,520701,Entrepreneurial Studies,2021,2021,5,Bachelors Degree,59,entrepreneurial-studies,"Boston, MA",16000US2507000,boston-ma
+52,Business,5208,Financial Management Services,520801,General Finance,2021,2021,5,Bachelors Degree,224,general-finance,"Boston, MA",16000US2507000,boston-ma
+52,Business,5208,Financial Management Services,520804,Financial Planning & Services,2021,2021,5,Bachelors Degree,5,financial-planning-services,"Boston, MA",16000US2507000,boston-ma
+52,Business,5208,Financial Management Services,520899,Other Finance & Financial Management Services,2021,2021,5,Bachelors Degree,0,other-finance-financial-management-services,"Boston, MA",16000US2507000,boston-ma
+52,Business,5209,Hospitality Management,520901,General Hospitality Management,2021,2021,5,Bachelors Degree,72,general-hospitality-management,"Boston, MA",16000US2507000,boston-ma
+52,Business,5209,Hospitality Management,520903,Tourism & Travel Services Management,2021,2021,5,Bachelors Degree,2,tourism-travel-services-management,"Boston, MA",16000US2507000,boston-ma
+52,Business,5209,Hospitality Management,520999,Other Hospitality Administration & Management,2021,2021,5,Bachelors Degree,13,other-hospitality-administration-management,"Boston, MA",16000US2507000,boston-ma
+52,Business,5210,Human Resource Management & Services,521001,General Human Resources Management & Personnel Administration,2021,2021,5,Bachelors Degree,7,general-human-resources-management-personnel-administration,"Boston, MA",16000US2507000,boston-ma
+52,Business,5210,Human Resource Management & Services,521002,Labor & Industrial Relations,2021,2021,5,Bachelors Degree,4,labor-industrial-relations,"Boston, MA",16000US2507000,boston-ma
+52,Business,5211,International Business,521101,"International Business, Trade, & Commerce",2021,2021,5,Bachelors Degree,129,international-business-trade-commerce,"Boston, MA",16000US2507000,boston-ma
+52,Business,5212,Management Information Systems & Services,521201,General Management Information Systems,2021,2021,5,Bachelors Degree,1,general-management-information-systems,"Boston, MA",16000US2507000,boston-ma
+52,Business,5213,Management Sciences & Quantitative Methods,521301,Management Science,2021,2021,5,Bachelors Degree,0,management-science,"Boston, MA",16000US2507000,boston-ma
+52,Business,5214,Marketing,521401,General Marketing & Marketing Management,2021,2021,5,Bachelors Degree,234,general-marketing-marketing-management,"Boston, MA",16000US2507000,boston-ma
+52,Business,5214,Marketing,521499,Other Marketing,2021,2021,5,Bachelors Degree,15,other-marketing,"Boston, MA",16000US2507000,boston-ma
+52,Business,5219,"Specialized Sales, Merchandising, & Marketing Operations",521902,Fashion Merchandising,2021,2021,5,Bachelors Degree,13,fashion-merchandising,"Boston, MA",16000US2507000,boston-ma
+52,Business,5220,Construction Management,522001,Construction Management,2021,2021,5,Bachelors Degree,106,construction-management-522001,"Boston, MA",16000US2507000,boston-ma
+52,Business,5299,"Other Business, Management, Marketing, & Related Services",529999,"Other Business, Management, Marketing, & Related Support Services",2021,2021,5,Bachelors Degree,57,other-business-management-marketing-related-support-services,"Boston, MA",16000US2507000,boston-ma
+54,History,5401,History,540101,General History,2021,2021,5,Bachelors Degree,128,general-history,"Boston, MA",16000US2507000,boston-ma
+54,History,5401,History,540103,European History,2021,2021,5,Bachelors Degree,0,european-history,"Boston, MA",16000US2507000,boston-ma
+54,History,5401,History,540199,Other History,2021,2021,5,Bachelors Degree,0,other-history,"Boston, MA",16000US2507000,boston-ma
