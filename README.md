@@ -1,13 +1,8 @@
 # 🌆 Bostonian Life
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    Welcome to **Bostonian Life**! This Data Story offers a comprehensive analysis of various factors influencing the quality of life in Boston, Massachusetts. Whether you're considering moving to Boston or just curious about the city, this interactive web application will provide you with all the information you need through engaging visualizations and detailed data.
-  </div>
-  <div>
-    <img src="https://github.com/NimilRl/BOSTONIAN-LIFE/assets/90232167/c4fbe1df-f763-45d5-8525-b99267c69a8b" alt="Sample Image" width="250" height="200">
-  </div>
-</div>
-
+Welcome to **Bostonian Life**! This Data Story offers a comprehensive analysis of various factors influencing the quality of life in Boston, Massachusetts. Whether you're considering moving to Boston or just curious about the city, this interactive web application will provide you with all the information you need through engaging visualizations and detailed data.
+ 
+<img src="https://github.com/NimilRl/BOSTONIAN-LIFE/assets/90232167/c4fbe1df-f763-45d5-8525-b99267c69a8b" alt="Sample Image" width="250" height="200">
+  
 ## 📜 Data Story Overview
 
 Boston, Massachusetts, is a vibrant city with rich historical significance, diverse cultural offerings, and robust educational and healthcare systems. The **Bostonian Life** project aims to help individuals make informed decisions about living in Boston by exploring key aspects such as **cost of living**, **housing market trends**, **employment opportunities**, **educational quality**, **healthcare services**, and **environmental risks**. 
