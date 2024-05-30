@@ -71,4 +71,4 @@ We hope you find this Data Story informative and engaging! Enjoy exploring the l
 
 This Data story created under subject cs617 [VISUALIZING.BOSTON](https://cs617.org/syllabus.pdf) 
 
-<img src="https://github.com/NimilRl/BOSTONIAN-LIFE/assets/90232167/7407dfde-9365-41d0-bf30-2e35e9ec123a" alt="Sample Image" width="290" height="200">
+<img src="https://github.com/NimilRl/BOSTONIAN-LIFE/assets/90232167/7407dfde-9365-41d0-bf30-2e35e9ec123a" alt="Sample Image" width="390" height="200">
