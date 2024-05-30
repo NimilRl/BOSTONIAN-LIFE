@@ -2,7 +2,7 @@
 
 Welcome to **Bostonian Life**! This project offers a comprehensive analysis of various factors influencing the quality of life in Boston, Massachusetts. Whether you're considering moving to Boston or just curious about the city, this interactive web application will provide you with all the information you need through engaging visualizations and detailed data.
 
-<img src="https://github.com/NimilRl/BOSTONIAN-LIFE/assets/90232167/c4fbe1df-f763-45d5-8525-b99267c69a8b" alt="Sample Image" width="200" height="100">
+<img src="https://github.com/NimilRl/BOSTONIAN-LIFE/assets/90232167/c4fbe1df-f763-45d5-8525-b99267c69a8b" alt="Sample Image" width="200" height="200">
 
 ## 📜 Data Story Overview
 
