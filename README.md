@@ -49,7 +49,7 @@ References used:
 ## 🤝 Contributing
 
 We welcome contributions! Here are the team members and their contributions:
-- **[Nimil Lathiya](https://www.linkedin.com/in/nimil-lathiya/)**: Project Lead who conducted research, collected all the raw data, refined it into meaningful information, and created visualizations, graphs, and content.
+- **[Me](https://www.linkedin.com/in/nimil-lathiya/)**: Project Lead who conducted research, collected all the raw data, refined it into meaningful information, and created visualizations, graphs, and content.
 
 - **[Meet Bhingradia](https://www.linkedin.com/in/meet-bhingradiya-74049122a/)**: Assisted in creating the design layout and helped integrate all the graphs and content into the site using WordPress.
 
