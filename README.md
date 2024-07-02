@@ -11,6 +11,9 @@ Our data analysis leverages multiple datasets to provide an accurate and detaile
 
 **Economic opportunities** are highlighted through charts illustrating employment by occupation and industry, income growth by neighborhood, and overall job market trends. Satisfaction ratings for various healthcare components, insurance coverage breakdown, and major **healthcare facilities** are also included, alongside maps and data highlighting flood, fire, wind, and heat risks in Boston. This storytelling approach, combined with engaging visualizations, helps to present a multifaceted picture of living in Boston.
 
+[bostonian.webm](https://github.com/NimilRl/BOSTONIAN-LIFE/assets/90232167/f9f85b72-7394-4c27-9921-392de34a5ec9)
+
+
 ## 🛠 Tech Stack
 
 We utilized a combination of frameworks and tools to develop and host this project:
